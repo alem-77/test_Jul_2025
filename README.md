@@ -1,2 +1,2 @@
-# test_Jul_2025
+# Тестовый проект
 Testing VS Code + Github
